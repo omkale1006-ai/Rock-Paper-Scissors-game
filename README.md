@@ -1,2 +1,11 @@
-# Rock-Paper-Scissors-game
-A fun Rock-Paper-Scissors game built with Python where you play against the computer. Simple terminal-based game using random choice and conditional logic. Great for Python beginners!
+# Rock Paper Scissors Game 🎮
+
+A simple command-line implementation of the classic Rock, Paper, Scissors game in Python.
+
+
+## Features ✨
+- Play against the computer
+- Simple and intuitive interface
+- Clear win/lose/tie outcomes
+- Validates user input
+
